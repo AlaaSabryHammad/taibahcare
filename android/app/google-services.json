@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464659838744",
+    "project_id": "taibah-care",
+    "storage_bucket": "taibah-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464659838744:android:af381acac0c87eae56906d",
+        "android_client_info": {
+          "package_name": "com.taibahcare.taibahcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464659838744-aqta2d3fu83uucv9pu5ntbc9hupcapk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTJ-Iyfy6W6yz1tOKcjeNO8bmst6l0Oek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464659838744-aqta2d3fu83uucv9pu5ntbc9hupcapk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
